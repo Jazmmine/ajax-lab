@@ -1,0 +1,43 @@
+{
+	"centroFormacion": "Laboratoria",
+	"ceo": "Mariana Acosta",
+	"fechaCreacion": "Año 2015",
+	"descripcion": "Identifican jóvenes mujeres de bajos recursos con un potencial enorme y le dan la oportunidad de convertirse en desarrolladores web.",
+	"metodologia": "Agile",
+	"etapasFormaDuracion": {
+		"bootcamp": "6 meses",
+		"educaContinua": "1 año y 6 meses"
+	},
+	"estructuraInterna": [
+		"Profesores",
+		"TA",
+		"Alumnas",
+		"Recursos Humanos"
+	],
+	"profesores":{
+		"cantidad": "3",
+		"nombres":[
+			"Elizabeth Portilla",
+			"Ivan Medina",
+			"Gian Corzo"
+		]
+	},
+	"ta":{
+		"cantidad":"1",
+		"nombre": "Mercedes Zubieta"
+	},
+
+	"alumnas":{
+		"cantidad": "31",
+		"squad": "6 alumnas por squad"
+	},
+	"recursos":{
+		"cantidad": "5",
+		"nombres":[
+			"Franco Chamochumbi",
+			"Jorge Guevara",
+			"Maria Paula Rivarola",
+			"Andrea Lamas"
+		]		
+	}
+}
