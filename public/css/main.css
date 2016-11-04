@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	overflow: overlay;
+}
+#logo{
+	background-image: url("../img/logo.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 57px;
+    width: 261px;
+}
+
+.navbar-fixed > nav{
+	background-color: white;
+}
+.responsive-video-main{
+	width: 100%;
+	height: 100%;	
+}

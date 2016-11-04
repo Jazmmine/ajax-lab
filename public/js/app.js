@@ -1,10 +1,12 @@
-var plantilla = "<div>" + "<p><strong>Centro de Formacion: </strong>__nombre__</p>" + "</div>"
+var plantilla = 
+
+"<div>" + "<p><strong>Centro de Formacion: </strong>__nombre__</p>" + "</div>"
 				 + "<p><strong>CEO: </strong>__ceo__</p>" + 
 				 "<p><strong>fecha de Creacion: </strong>__fechaCreacion__</p>" + "</div>"
 
 $(document).ready(function(){
     $.ajax({
-		url:"http://localhost:3001/demo.json",
+		url:"http://localhost:3002/demo.json",
 		type: "GET",
         data: {"nombre": "jazmine"},
 		success: function(response){
